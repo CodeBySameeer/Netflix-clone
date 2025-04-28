@@ -1,7 +1,7 @@
 
 # Netflix Clone 🎬
 
-![Website](https://img.shields.io/website?url=https://samirkathayat.github.io/Netflix-clone/)
+![Website](https://img.shields.io/website?url=https://CodeBySameeer.github.io/Netflix-clone/)
 ![HTML](https://img.shields.io/badge/HTML-5-orange)
 ![CSS](https://img.shields.io/badge/CSS-3-blue)
 ![Responsive](https://img.shields.io/badge/Responsive-Yes-brightgreen)
